@@ -41,7 +41,7 @@ Available for purchase on my Tebex store:
 
 ## Preview (click on the image)
 
-[![Présentation YouTube du script](https://img.youtube.com/vi/0m9gVwwcalI/maxresdefault.jpg)](https://www.youtube.com/watch?v=0m9gVwwcalI)
+[![Présentation YouTube du script](https://img.youtube.com/vi/6JC1rg4P01M/maxresdefault.jpg)](https://www.youtube.com/watch?v=6JC1rg4P01M)
 
 ---
 
