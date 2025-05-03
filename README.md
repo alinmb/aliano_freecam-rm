@@ -16,8 +16,6 @@ Aliano FreeCam is an advanced free camera script for FiveM that allows players t
 - **100% Standalone**: No dependencies required, compatible with any FiveM server
 - **User-Friendly Controls**: Intuitive interface with on-screen instructions
 
-_Note: Currently available in French - English translation (notifications and comments) coming soon!_
-
 ## Installation
 
 1. Download the latest release
